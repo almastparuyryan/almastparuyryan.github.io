@@ -2,7 +2,7 @@
 layout: post
 title: "A two-week AI capacity pilot: count accepted work separately from saved money"
 description: "An editable worksheet for a small team to measure recovered output, review time, and actual avoided spend in an AI task handoff pilot."
-date: 2026-10-06 12:00:00 +0400
+date: 2026-10-05 14:00:00 +0400
 ---
 
 ## Two questions, two answers
