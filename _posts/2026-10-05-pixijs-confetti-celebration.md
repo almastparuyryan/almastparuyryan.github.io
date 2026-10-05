@@ -2,7 +2,7 @@
 layout: post
 title: "Build a PixiJS 8 confetti celebration that cleans up after itself"
 description: "A small, inspectable PixiJS 8 confetti effect with a reduced-motion path, particle cap, and notes on moving to an authored VFX workflow."
-date: 2026-10-05 12:00:00 +0400
+date: 2026-10-05 09:00:00 +0400
 ---
 
 ## Start with the moment, not the particles
