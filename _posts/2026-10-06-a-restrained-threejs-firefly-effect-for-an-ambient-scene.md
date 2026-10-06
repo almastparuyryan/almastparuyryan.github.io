@@ -2,7 +2,7 @@
 layout: post
 title: "A restrained Three.js firefly effect for an ambient scene"
 description: "Author, load, and review a small looping firefly effect with a particle cap and an explicit cleanup path."
-date: 2026-10-07 10:00:00 +0400
+date: 2026-10-06 12:00:00 +0400
 ---
 
 ## Give the fireflies a job in the scene
