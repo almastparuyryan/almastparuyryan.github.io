@@ -2,7 +2,7 @@
 layout: post
 title: "How to review AI-delivered work when you cannot inspect every line"
 description: "An evidence checklist and escalation path for a small team reviewing bounded AI-delivered tasks."
-date: 2026-10-06 12:30:00 +0400
+date: 2026-10-06 08:00:00 +0400
 ---
 
 ## The founder's review is a routing decision
