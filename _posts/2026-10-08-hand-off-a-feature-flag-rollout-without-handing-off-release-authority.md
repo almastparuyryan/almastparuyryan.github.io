@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Hand off a feature-flag rollout without handing off release authority"
 description: "A staged brief that separates implementation, evidence, approval, and deployment."
 date: 2026-10-08
