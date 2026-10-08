@@ -1,9 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "A PixiJS spell-hit effect that leaves the target readable"
 description: "Plan a short magic impact burst, integrate an exported effect, and avoid common UI and runtime mistakes."
-date: 2026-10-09
+date: 2026-10-08
 ---
 
 A spell hit needs to answer a gameplay question: where did the projectile land? If the effect fills the screen, lasts longer than the target reaction, or obscures damage feedback, it stops helping. A compact PixiJS impact can be more useful than a dense shower of particles.
