@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Item rarity loading fixture</title>  <script type="module" crossorigin src="./rarity-D4d_CXON.js"></script>
+  <link rel="modulepreload" crossorigin href="./rarity-Geometry-DqQP2PPv.js">
+  <link rel="modulepreload" crossorigin href="./rarity-Filter-Bxtu9O8W.js">
+  <link rel="modulepreload" crossorigin href="./rarity-canvasUtils-Kt86yr3A.js">
+  <link rel="modulepreload" crossorigin href="./rarity-Cache-CrW7Ogai.js">
+  <link rel="modulepreload" crossorigin href="./rarity-GCManagedHash-BGBPrm34.js">
+  <link rel="modulepreload" crossorigin href="./rarity-RenderTargetSystem-CCgNwaUB.js">
+  <link rel="modulepreload" crossorigin href="./rarity-getTextureBatchBindGroup-CxVqkOUF.js">
+  <link rel="modulepreload" crossorigin href="./rarity-GraphicsContext-BQTxPvWB.js">
+  <link rel="modulepreload" crossorigin href="./rarity-CanvasPool-BoY6lLPP.js">
+  <link rel="modulepreload" crossorigin href="./rarity-BufferResource-Dexe4hEL.js">
+  <link rel="stylesheet" crossorigin href="./rarity-index-yqwM-VJF.css">
+</head>
+<body>
+  <header><strong>Inventory</strong><span>Lot 037</span></header>
+  <main>
+    <h1>Skyglass relics</h1>
+    <div class="toolbar">
+      <button id="load" disabled>Load items</button>
+      <label><input id="delay" type="checkbox" checked>900ms delay</label>
+      <label><input id="missing" type="checkbox">Missing asset</label>
+      <label><input id="reduced" type="checkbox">Reduced motion</label>
+      <label><input id="paused" type="checkbox">Pause motion</label>
+      <button id="dispose" disabled>Dispose</button>
+    </div>
+    <p id="status" role="status">Initializing</p>
+    <section id="stage" aria-label="Inventory items">
+      <div class="cards">
+        <article class="item-card" data-item="rare">
+          <div class="item-heading"><span class="rarity rare">Rare</span><span>01</span></div>
+          <div class="item-slot" aria-label="Rare relic artwork"><span class="asset-state">Loading</span></div>
+          <h2>Skyglass shard</h2><p class="item-state">Asset loading</p>
+          <button class="reveal" data-reveal="rare" disabled>Reveal rare item</button>
+        </article>
+        <article class="item-card" data-item="epic">
+          <div class="item-heading"><span class="rarity epic">Epic</span><span>02</span></div>
+          <div class="item-slot" aria-label="Epic relic artwork"><span class="asset-state">Loading</span></div>
+          <h2>Skyglass prism</h2><p class="item-state">Asset loading</p>
+          <button class="reveal" data-reveal="epic" disabled>Reveal epic item</button>
+        </article>
+      </div>
+    </section>
+    <details open><summary>Measurements</summary><pre id="stats" aria-live="off">{}</pre></details>
+    <details><summary>Load and reveal events</summary><pre id="events">[]</pre></details>
+  </main>
+</body>
+</html>
