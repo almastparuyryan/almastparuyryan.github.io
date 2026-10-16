@@ -2,7 +2,7 @@
 layout: post
 title: "A deferred AI task needs a next decision"
 description: "Five handoff mistakes that turn a useful decline into an abandoned request, with a worked decision log."
-date: 2026-10-16 12:00:00 +0400
+date: 2026-10-16 10:00:00 +0400
 ---
 
 AI disclosure: This article was prepared with AI. The search-repair example is fictional; it describes a decision process, not a completed change or measured improvement.

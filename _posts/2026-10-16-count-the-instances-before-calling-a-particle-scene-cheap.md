@@ -2,7 +2,7 @@
 layout: post
 title: "Count the instances before calling a particle scene cheap"
 description: "A reproducible NixieFX stress fixture with instance counts, browser timing, draw calls and explicit cleanup."
-date: 2026-10-16 12:10:00 +0400
+date: 2026-10-16 10:01:00 +0400
 ---
 
 AI and affiliation disclosure: This article was prepared with AI for NixieFX-related marketing work. Its results come from an original synthetic fixture using nixie-fx 0.1.17 and Three.js 0.185.1. They are observations from one browser session, not a production performance guarantee.
