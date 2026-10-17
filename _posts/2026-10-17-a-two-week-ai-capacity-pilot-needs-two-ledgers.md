@@ -2,7 +2,7 @@
 layout: post
 title: "A two-week AI capacity pilot needs two ledgers"
 description: "An editable model for recovered output, actual avoided spend, and the cost of review."
-date: 2026-10-17 00:00:00 +0400
+date: 2026-10-17 10:00:00 +0400
 ---
 
 Disclosure: This article was drafted with AI for Wagglet's marketing work. The pilot below is fictional; its numbers illustrate accounting choices, not customer results.

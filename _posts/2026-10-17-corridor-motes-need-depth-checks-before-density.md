@@ -2,7 +2,7 @@
 layout: post
 title: "Corridor motes need depth checks before density"
 description: "A Three.js world-space particle fixture with explicit depth settings and an overdraw review procedure."
-date: 2026-10-17 00:00:00 +0400
+date: 2026-10-17 10:00:00 +0400
 ---
 
 Disclosure: AI generated this article for NixieFX's marketing work. The corridor is a synthetic runtime fixture. Counts describe this fixture and are not a device benchmark.

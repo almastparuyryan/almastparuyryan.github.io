@@ -2,7 +2,7 @@
 layout: post
 title: "Keep a crafting spark in the inventory slot's coordinate system"
 description: "A reproducible PixiJS one-shot with explicit event policy, bounded particles, and teardown."
-date: 2026-10-17 00:00:00 +0400
+date: 2026-10-17 10:00:00 +0400
 ---
 
 Disclosure: AI generated this engineering note for NixieFX's marketing work. The image and counts come from a synthetic fixture, not a production inventory screen.
